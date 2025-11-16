@@ -1,5 +1,18 @@
-# 💫 About Me:
-<br>I'm Sravan, an MCA student focused on cybersecurity, data analysis, and full-stack development.  <br>I like working on practical projects that mix ML, security, and web development.  <br>Right now I'm building stronger mini projects for my academics and preparing for roles like SOC analyst, security engineer, and full-stack intern.<br><br>What I'm working on:<br>- Crime analysis and prediction using ML<br>- React + Node.js based web apps<br>- Improving SOC skills, SIEM basics, and hands-on security tools<br><br>What I enjoy:<br>- Breaking and fixing things in small labs<br>- Cleaning messy datasets and making sense of them<br>- Building UI prototypes and turning them into working apps<br>
+# 💫 About Me
+
+I'm Sravan, an MCA student focused on cybersecurity, data analysis, and full-stack development.  
+I like working on practical projects that combine ML, security, and web development.  
+Right now I'm building stronger mini projects for my academics and preparing for roles like SOC analyst, security engineer, and full-stack intern.
+
+### What I'm working on
+- Crime analysis and prediction using ML  
+- React + Node.js web apps  
+- Improving SOC skills, SIEM basics, and hands-on security tools  
+
+### What I enjoy
+- Breaking and fixing things in small labs  
+- Cleaning messy datasets and making sense of them  
+- Building UI prototypes and turning them into working apps  
 
 
 ## 🌐 Socials:
