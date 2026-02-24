@@ -18,7 +18,7 @@ Currently preparing for **SOC analyst (entry-level)**, **junior security enginee
 
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/_sravansravan824_/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akkaladevi-sravan-kumar-a24368368)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akkaladevi-sravan-kumar-8311a43b3)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sravansravan824@gmail.com)
 
 # 💻 Tech Stack
