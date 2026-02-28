@@ -4,7 +4,7 @@
 
 💫 About Me
 
-I'm Sravan, an MCA student and aspiring Software Developer from India.
+I'm Akkadevi Sravan Kumar, an MCA student and aspiring Software Developer from India.
 
 I focus on building clean, practical web applications using modern full-stack technologies.
 Alongside development, I strengthen my understanding of application security and system fundamentals to build more secure and reliable software.
