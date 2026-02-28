@@ -1,10 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0084E7&size=23&lines=Hi+there+👋;I'm+Akkadevi+Sravan+Kumar%21;Cybersecurity+%7C+ML+%7C+Full-Stack)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0084E7&size=23&lines=Hi+there+👋;I'm+Akkaladevi+Sravan+Kumar;Software+Developer;Security-Minded+Engineer)](https://git.io/typing-svg)
 
 ---
 
 💫 About Me
 
-I'm Akkadevi Sravan Kumar, an MCA student and aspiring Software Developer from India.
+I'm Akkaladevi Sravan Kumar, an MCA student and aspiring Software Developer from India.
 
 I focus on building clean, practical web applications using modern full-stack technologies.
 Alongside development, I strengthen my understanding of application security and system fundamentals to build more secure and reliable software.
