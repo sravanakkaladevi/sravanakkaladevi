@@ -2,24 +2,25 @@
 
 ---
 
-# 💫 About Me
+💫 About Me
 
-I'm **Sravan**, an MCA student from India focused on **Cybersecurity, Data Analysis, and Full-Stack Development**.
+I'm Sravan, an MCA student and aspiring Software Developer from India.
 
-I enjoy building practical systems, breaking them, fixing them, and understanding how they work internally.  
-Currently preparing for **SOC Analyst (Entry-Level)**, **Junior Security Engineer**, and **Full-Stack Intern** roles.
+I focus on building clean, practical web applications using modern full-stack technologies.
+Alongside development, I strengthen my understanding of application security and system fundamentals to build more secure and reliable software.
 
-🔗 **Portfolio:**  
+🔗 Portfolio:
 https://akkaladevisravankumar.netlify.app/
 
----
+🚀 Current Focus
 
-## 🚀 Current Focus
+Building full-stack applications using React and Node.js
 
-- Crime analysis and prediction using real-world datasets  
-- React + Node.js applications with authentication and APIs  
-- SOC fundamentals: log analysis, SIEM basics, incident lifecycle  
-- Security labs and web vulnerability practice  
+Writing clean backend logic and secure authentication systems
+
+Applying basic security concepts while developing real-world apps
+
+Improving problem-solving and system understanding
 
 ---
 
