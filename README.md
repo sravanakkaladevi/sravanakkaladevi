@@ -10,7 +10,7 @@ I focus on building clean, practical web applications using modern full-stack te
 Alongside development, I strengthen my understanding of application security and system fundamentals to build more secure and reliable software.
 
 🔗 Portfolio:
-https://akkaladevisravankumar.netlify.app/
+https://sravanakkaladevi.github.io/sravan-portfolio/
 
 🚀 Current Focus
 
