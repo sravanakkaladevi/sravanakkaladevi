@@ -10,7 +10,7 @@ I focus on building clean, practical web applications using modern full-stack te
 Alongside development, I strengthen my understanding of application security and system fundamentals to build more secure and reliable software.
 
 🔗 Portfolio:
-https://sravanakkaladevi.github.io/sravan-portfolio/
+https://akkaladevisravankumar-phi.vercel.app/
 
 🚀 Current Focus
 
