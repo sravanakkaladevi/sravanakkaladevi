@@ -22,9 +22,6 @@
   <a href="https://www.instagram.com/_sravansravan824_/">
     <img src="https://img.shields.io/badge/Instagram-161B22?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram">
   </a>
-</p>
-
-<p>
   <a href="https://github.com/sravanakkaladevi?tab=followers">
     <img src="https://img.shields.io/github/followers/sravanakkaladevi?style=for-the-badge&label=FOLLOWERS&color=0084E7&labelColor=161B22" alt="GitHub followers">
   </a>
@@ -35,10 +32,6 @@
 </p>
 
 ---
-
-<table align="center" width="100%">
-<tr>
-<td width="65%" valign="top">
 
 ## 👨‍💻 About Me
 
@@ -53,14 +46,11 @@ I focus on building clean, practical web applications using modern full-stack te
 
 > **Build secure. Code clean. Learn constantly. Ship value.**
 
-</td>
-<td width="35%" align="center" valign="middle">
+<br>
 
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nodejs,express,django,mysql,mongodb,linux,git,github,vscode,docker&perline=5&theme=dark" width="100%" alt="Tech stack">
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nodejs,express,django,mysql,mongodb,linux,git,github,vscode,docker&perline=15&theme=dark" alt="Tech stack">
+</p>
 
 <br>
 
