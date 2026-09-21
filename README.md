@@ -42,14 +42,14 @@ I focus on building clean, practical web applications using modern full-stack te
 - 🚀 **Full Stack Web Development**: Building responsive apps with React & Node.js
 - 🔒 **Backend & Security**: Writing clean server logic & secure authentication systems
 - 🛡️ **Application Security**: Applying security concepts to real-world projects
-- ⚡ **Languages & Tech**: Python, Java, JavaScript, React, Node.js, Django, MySQL, MongoDB, Linux, Git
+- ⚡ **Languages & Tech**: Python, JavaScript, TypeScript, React, Node.js, Django, GCP, Azure, MySQL, MongoDB, Linux, Git
 
 > **Build secure. Code clean. Learn constantly. Ship value.**
 
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nodejs,express,django,mysql,mongodb,linux,git,github,vscode,docker&perline=15&theme=dark" alt="Tech stack">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,express,django,gcp,azure,mysql,mongodb,linux,git,github,vscode,docker&perline=16&theme=dark" alt="Tech stack">
 </p>
 
 <br>
