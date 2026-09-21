@@ -34,7 +34,7 @@ jobs:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true&theme=dracula
           path: dist/stats-dark.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_PAT || secrets.GITHUB_TOKEN }}
 
       - name: Generate Stats Light
         uses: readme-tools/github-readme-stats-action@v1
@@ -42,7 +42,7 @@ jobs:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true
           path: dist/stats-light.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_PAT || secrets.GITHUB_TOKEN }}
 
       - name: Generate Top Languages Dark
         uses: readme-tools/github-readme-stats-action@v1
@@ -50,7 +50,7 @@ jobs:
           card: top-langs
           options: username=${{ github.repository_owner }}&theme=dracula&langs_count=8&layout=compact
           path: dist/top-langs-dark.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_PAT || secrets.GITHUB_TOKEN }}
 
       - name: Generate Top Languages Light
         uses: readme-tools/github-readme-stats-action@v1
@@ -58,7 +58,7 @@ jobs:
           card: top-langs
           options: username=${{ github.repository_owner }}&langs_count=8&layout=compact
           path: dist/top-langs-light.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_PAT || secrets.GITHUB_TOKEN }}
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3

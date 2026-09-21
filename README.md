@@ -1,12 +1,14 @@
-<div align="left">
-
-<img align="right" src="https://github.com/sravanakkaladevi.png" width="220" style="border-radius: 50%;" hspace="15" alt="Akkaladevi Sravan Kumar">
+<table align="center" width="100%">
+<tr>
+<td width="72%" valign="top">
 
 <h1>Hey there, I'm Akkaladevi Sravan Kumar 👋</h1>
 
 <a href="https://github.com/sravanakkaladevi">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=0084E7&center=false&vCenter=true&width=550&lines=Software+Developer;Full+Stack+%26+Security-Minded;MCA+Student;Building+React+%26+Node.js+Apps;Turning+Ideas+Into+Code" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=0084E7&center=false&vCenter=true&width=480&lines=Software+Developer;Full+Stack+%26+Security-Minded;MCA+Student;Building+React+%26+Node.js+Apps;Turning+Ideas+Into+Code" alt="Typing SVG">
 </a>
+
+<br><br>
 
 <p>
   <a href="https://akkaladevisravankumar-phi.vercel.app/">
@@ -36,9 +38,14 @@
   <img src="https://komarev.com/ghpvc/?username=sravanakkaladevi&style=for-the-badge&label=PROFILE%20VIEWS&color=0084E7&labelColor=161B22" alt="Profile views">
 </p>
 
-<br clear="both">
+</td>
+<td width="28%" align="center" valign="middle">
 
-</div>
+<img src="https://github.com/sravanakkaladevi.png" width="180" alt="Akkaladevi Sravan Kumar">
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -105,5 +112,3 @@ I focus on building clean, practical web applications using modern full-stack te
 <br>
 <sub><b>© Akkaladevi Sravan Kumar</b> · Software Developer · Full Stack · Security</sub>
 </div>
-
-
