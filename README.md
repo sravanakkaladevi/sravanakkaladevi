@@ -1,76 +1,109 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0084E7&size=23&lines=Hi+there+👋;I'm+Akkaladevi+Sravan+Kumar;Software+Developer;Security-Minded+Engineer)](https://git.io/typing-svg)
+<div align="left">
 
----
+<img align="right" src="https://github.com/sravanakkaladevi.png" width="220" style="border-radius: 50%;" hspace="15" alt="Akkaladevi Sravan Kumar">
 
-💫 About Me
+<h1>Hey there, I'm Akkaladevi Sravan Kumar 👋</h1>
 
-I'm Akkaladevi Sravan Kumar, an MCA student and aspiring Software Developer from India.
+<a href="https://github.com/sravanakkaladevi">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=0084E7&center=false&vCenter=true&width=550&lines=Software+Developer;Full+Stack+%26+Security-Minded;MCA+Student;Building+React+%26+Node.js+Apps;Turning+Ideas+Into+Code" alt="Typing SVG">
+</a>
 
-I focus on building clean, practical web applications using modern full-stack technologies.
-Alongside development, I strengthen my understanding of application security and system fundamentals to build more secure and reliable software.
-
-🔗 Portfolio:
-https://akkaladevisravankumar-phi.vercel.app/
-
-🚀 Current Focus
-
-Building full-stack applications using React and Node.js
-
-Writing clean backend logic and secure authentication systems
-
-Applying basic security concepts while developing real-world apps
-
-Improving problem-solving and system understanding
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img width="390" src="https://raw.githubusercontent.com/sravanakkaladevi/sravanakkaladevi/output/stats-dark.svg" />
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com?user=sravanakkaladevi&theme=dracula" />
+<p>
+  <a href="https://akkaladevisravankumar-phi.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=google-chrome&logoColor=0084E7" alt="Portfolio">
+  </a>
+  <a href="https://github.com/sravanakkaladevi">
+    <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=0084E7" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/akkaladevi-sravan-kumar-8311a43b3">
+    <img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="LinkedIn">
+  </a>
+  <a href="mailto:sravansravan824@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail">
+  </a>
+  <a href="https://www.instagram.com/_sravansravan824_/">
+    <img src="https://img.shields.io/badge/Instagram-161B22?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram">
+  </a>
 </p>
 
-<p align="center">
-  <img width="325" src="https://raw.githubusercontent.com/sravanakkaladevi/sravanakkaladevi/output/top-langs-dark.svg" />
+<p>
+  <a href="https://github.com/sravanakkaladevi?tab=followers">
+    <img src="https://img.shields.io/github/followers/sravanakkaladevi?style=for-the-badge&label=FOLLOWERS&color=0084E7&labelColor=161B22" alt="GitHub followers">
+  </a>
+  <a href="https://github.com/sravanakkaladevi?tab=repositories">
+    <img src="https://img.shields.io/github/stars/sravanakkaladevi?style=for-the-badge&label=STARS&color=58A6FF&labelColor=161B22" alt="GitHub stars">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=sravanakkaladevi&style=for-the-badge&label=PROFILE%20VIEWS&color=0084E7&labelColor=161B22" alt="Profile views">
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sravanakkaladevi&abbreviated=true" />
-</p>
+<br clear="both">
+
+</div>
 
 ---
 
-# 🛠 Tech Stack
+<table align="center" width="100%">
+<tr>
+<td width="65%" valign="top">
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+## 👨‍💻 About Me
 
----
+I'm **Akkaladevi Sravan Kumar**, an MCA student and aspiring **Software Developer** from India.
 
-# 🌐 Connect With Me
+I focus on building clean, practical web applications using modern full-stack technologies. Alongside development, I strengthen my understanding of application security and system fundamentals to build secure, reliable software.
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akkaladevi-sravan-kumar-8311a43b3)
-[![Email](https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sravansravan824@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_sravansravan824_/)
+- 🚀 **Full Stack Web Development**: Building responsive apps with React & Node.js
+- 🔒 **Backend & Security**: Writing clean server logic & secure authentication systems
+- 🛡️ **Application Security**: Applying security concepts to real-world projects
+- ⚡ **Languages & Tech**: Python, Java, JavaScript, React, Node.js, Django, MySQL, MongoDB, Linux, Git
 
----
+> **Build secure. Code clean. Learn constantly. Ship value.**
 
-# 🐍 Contribution Snakes
+</td>
+<td width="35%" align="center" valign="middle">
+
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nodejs,express,django,mysql,mongodb,linux,git,github,vscode,docker&perline=5&theme=dark" width="100%" alt="Tech stack">
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+## 📊 GitHub Stats & Streak
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sravanakkaladevi/sravanakkaladevi/output/grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sravanakkaladevi/sravanakkaladevi/output/grid-snake-light.svg">
-    <img alt="snake animation" src="https://raw.githubusercontent.com/sravanakkaladevi/sravanakkaladevi/output/grid-snake-light.svg">
-  </picture>
+  <img width="48%" src="https://raw.githubusercontent.com/sravanakkaladevi/sravanakkaladevi/output/stats-dark.svg" alt="GitHub Stats" />
+  <img width="48%" src="https://raw.githubusercontent.com/sravanakkaladevi/sravanakkaladevi/output/top-langs-dark.svg" alt="Top Languages" />
 </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sravanakkaladevi&theme=dracula" alt="GitHub Streak" />
+</p>
+
+</div>
+
+<br>
+
+<div align="center">
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sravanakkaladevi/sravanakkaladevi/output/grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sravanakkaladevi/sravanakkaladevi/output/grid-snake-light.svg">
+  <img src="https://raw.githubusercontent.com/sravanakkaladevi/sravanakkaladevi/output/grid-snake-dark.svg" width="90%" alt="GitHub Contribution Snake">
+</picture>
+
+</div>
+
+<br>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&text=Keep%20Building%20%E2%80%A2%20Keep%20Learning%20%E2%80%A2%20Keep%20Shipping&fontSize=19&fontColor=ffffff&fontAlignY=65&color=gradient&customColorList=0,12,20,24" width="100%" alt="Waving footer">
+<br>
+<sub><b>© Akkaladevi Sravan Kumar</b> · Software Developer · Full Stack · Security</sub>
+</div>
+
 
