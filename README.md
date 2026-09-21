@@ -41,7 +41,7 @@
 </td>
 <td width="28%" align="center" valign="middle">
 
-<img src="pic.jpeg" width="180" alt="Akkaladevi Sravan Kumar">
+<img src="https://github.com/sravanakkaladevi.png" width="180" alt="Akkaladevi Sravan Kumar">
 
 </td>
 </tr>
