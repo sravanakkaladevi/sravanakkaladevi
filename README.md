@@ -1,7 +1,3 @@
-<table align="center" width="100%">
-<tr>
-<td width="72%" valign="top">
-
 <h1>Hey there, I'm Akkaladevi Sravan Kumar 👋</h1>
 
 <a href="https://github.com/sravanakkaladevi">
@@ -37,15 +33,6 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=sravanakkaladevi&style=for-the-badge&label=PROFILE%20VIEWS&color=0084E7&labelColor=161B22" alt="Profile views">
 </p>
-
-</td>
-<td width="28%" align="center" valign="middle">
-
-<img src="https://github.com/sravanakkaladevi.png" width="180" alt="Akkaladevi Sravan Kumar">
-
-</td>
-</tr>
-</table>
 
 ---
 
