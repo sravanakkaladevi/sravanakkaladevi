@@ -63,7 +63,10 @@ I focus on building clean, practical web applications using modern full-stack te
   <img width="48%" src="https://raw.githubusercontent.com/sravanakkaladevi/sravanakkaladevi/output/top-langs-dark.svg" alt="Top Languages" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sravanakkaladevi&theme=dracula" alt="GitHub Streak" />
+  <img
+    src="https://raw.githubusercontent.com/sravanakkaladevi/sravanakkaladevi/output/streak.svg"
+    alt="GitHub Streak"
+  />
 </p>
 
 </div>
