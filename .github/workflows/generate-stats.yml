@@ -2,12 +2,18 @@ name: Generate Readme Stats
 
 on:
   schedule:
-    - cron: "0 */12 * * *"   # every 12 hours
+    - cron: "0 */12 * * *"
+
+  push:
+    paths:
+      - ".github/workflows/generate-stats.yml"
+
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     permissions:
       contents: write
 
@@ -58,6 +64,13 @@ jobs:
           card: top-langs
           options: username=${{ github.repository_owner }}&langs_count=8&layout=compact
           path: dist/top-langs-light.svg
+          token: ${{ secrets.GH_PAT || secrets.GITHUB_TOKEN }}
+
+      - name: Generate Streak Stats
+        uses: zients/github-readme-streak-stats@v2
+        with:
+          options: user=${{ github.repository_owner }}&theme=dracula&disable_animations=true
+          path: dist/streak.svg
           token: ${{ secrets.GH_PAT || secrets.GITHUB_TOKEN }}
 
       - name: Push to output branch
