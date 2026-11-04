@@ -7,7 +7,7 @@
 <br><br>
 
 <p>
-  <a href="https://akkaladevisravankumar-phi.vercel.app/">
+  <a href="https://sravanakkaladevi-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=google-chrome&logoColor=0084E7" alt="Portfolio">
   </a>
   <a href="https://github.com/sravanakkaladevi">
